@@ -1,0 +1,13 @@
+.btn-rnd {
+  height: 60px;
+  width: 90px;
+  background-color: #cecece;
+  border-radius: 5px;
+}
+
+.num-cont {
+  height: 300px;
+  width: 400px;
+  background-color: #cecece;
+  margin-top: 30px;
+}
